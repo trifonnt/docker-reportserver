@@ -39,7 +39,7 @@ reportserver:
 * three commands ;)
 
 ```
-git clone https://github.com/remijouannet/docker-reportserver.git
+git clone https://github.com/trifonnt/docker-reportserver.git
 cd docker-reportserver
 docker-compose up
 ```
